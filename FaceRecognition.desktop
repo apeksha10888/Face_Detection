@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=AI Face Recognition
+Comment=AI Face Detection and Recognition System
+Exec=/home/ai/FaceRecognitionProject/run.sh
+Icon=/home/ai/FaceRecognitionProject/assets/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
